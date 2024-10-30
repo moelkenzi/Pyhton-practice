@@ -1,0 +1,7 @@
+echo "# SNU-B5-Python-Sem1" >> README.md
+git init
+git add README.md
+git commit -m "A folder that contains all the Basic Fundamentals of the Python SNU Batch-0"
+git branch -M main
+git remote add origin https://github.com/moelkenzi/SNU-B5-Python-Sem1.git
+git push -u origin main
